@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Ghost of a smile",
+  "base_artist": "EGOIST",
+  "createdAt": "2025-12-07T13:38:51.757796Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ghost of a smile",
+      "artist": "EGOIST",
+      "has_synced": true,
+      "path": "select/01_Ghost_of_a_smile_EGOIST.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ghost of a smile",
+      "artist": "EGOIST",
+      "has_synced": true,
+      "path": "select/02_Ghost_of_a_smile_EGOIST.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Ghost of a Smile",
+      "artist": "Driveways",
+      "has_synced": true,
+      "path": "select/03_Ghost_of_a_Smile_Driveways.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Ghost of a smile -Instrumental-",
+      "artist": "EGOIST",
+      "has_synced": false,
+      "path": "select/04_Ghost_of_a_smile_-Instrumental-_EGOIST.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Ghost of a Smile",
+      "artist": "Pogues",
+      "has_synced": true,
+      "path": "select/05_The_Ghost_of_a_Smile_Pogues.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Ghost Of A Smile",
+      "artist": "The Pogues",
+      "has_synced": true,
+      "path": "select/06_Ghost_Of_A_Smile_The_Pogues.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Ghost Of A Smile",
+      "artist": "The Pogues",
+      "has_synced": true,
+      "path": "select/07_The_Ghost_Of_A_Smile_The_Pogues.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Ghost of a Smile",
+      "artist": "EGOIST",
+      "has_synced": false,
+      "path": "select/08_Ghost_of_a_Smile_EGOIST.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Ghost of a Smile",
+      "artist": "The Pogues",
+      "has_synced": false,
+      "path": "select/09_The_Ghost_of_a_Smile_The_Pogues.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Ghost of a Smile, The",
+      "artist": "Pogues, The",
+      "has_synced": true,
+      "path": "select/10_Ghost_of_a_Smile,_The_Pogues,_The.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Ghost of a smile",
+      "artist": "EGOIST",
+      "has_synced": true,
+      "path": "select/11_Ghost_of_a_smile_EGOIST.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Ghost of a Smile",
+      "artist": "Pogues, The",
+      "has_synced": true,
+      "path": "select/12_The_Ghost_of_a_Smile_Pogues,_The.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Ghost of a Smile",
+      "artist": "Driveways",
+      "has_synced": false,
+      "path": "select/13_Ghost_of_a_Smile_Driveways.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Ghost Of A Smile",
+      "artist": "Pogues, The",
+      "has_synced": true,
+      "path": "select/14_Ghost_Of_A_Smile_Pogues,_The.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Ghost of a smile",
+      "artist": "EGOIST",
+      "has_synced": false,
+      "path": "select/pl_01_Ghost_of_a_smile_EGOIST.txt"
+    }
+  ]
+}
